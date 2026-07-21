@@ -19,6 +19,7 @@ My research focuses on developing intelligent learning-based methods for autonom
 
 ## 📫 Connect with Me
 
+- [LinkedIn](https://www.linkedin.com/in/hossein-maghsoumi/)
 - [Google Scholar](https://scholar.google.com/citations?user=z-xSxX0AAAAJ&hl=en)
 - University of Central Florida
 - Orlando, Florida
