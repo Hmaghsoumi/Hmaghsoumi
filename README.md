@@ -33,7 +33,7 @@ A workflow for converting real-world connected-vehicle field-test data into simu
 
 ## 🧠 Technical Areas
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `Autonomous Driving` · `Domain Adaptation` · `Python` · `PyTorch` · `ROS 2`
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `Autonomous Driving` · `Domain Adaptation` · `Image Processing` 
 
 ## 📫 Connect with Me
 
